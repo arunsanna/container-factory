@@ -8,16 +8,10 @@ sudo yum -y update
 sudo yum -y install \
     make \
     golang \
-    bats \
-    btrfs-progs-devel \
-    device-mapper-devel \
     glib2-devel \
-    gpgme-devel \
-    libassuan-devel \
     libseccomp-devel \
     git \
     bzip2 \
-    go-md2man \
     runc \
     skopeo-containers
 ```
